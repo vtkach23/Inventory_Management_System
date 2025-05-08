@@ -33,6 +33,9 @@ This is an efficient, technology-driven Inventory Management System designed for
 - Use the "Update" button to modify the quantity of an existing product.
 - Use the "Export" button to save the inventory data as a CSV file.
 
+## Documentation
+This README file serves as the complete documentation for the project. It includes a project overview, features, installation instructions, usage guide, and testing examples through screenshots.
+
 ## Screenshots
 ### Adding a Product
 ![Adding a Product](Images/adding_product.png)
