@@ -41,7 +41,7 @@ This is an efficient, technology-driven Inventory Management System designed for
 ![Removing a Product](Images/removing_product.png)
 
 ### Updating Product Quantity
-![Updating Product Quantity](Images/updating_quantity.png)
+![Updating Product Quantity](Images/updating.png)
 
 ### Exporting CSV
 ![Exporting CSV](Images/exporting_csv.png)
