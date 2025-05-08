@@ -47,4 +47,4 @@ This is an efficient, technology-driven Inventory Management System designed for
 ![Exporting CSV](Images/exporting_csv.png)
 
 ## Conclusion
-This Inventory Management System is an efficient solution for businesses to track and manage products. We successfully integrated a real-time product lookup using OpenFoodFacts API and provided a user-friendly interface with core functionalities. Challenges included JSON parsing and API integration, which were resolved. Future improvements include user authentication, enhanced UI design, and more API integratio
+This Inventory Management System is an efficient solution for businesses to track and manage products. We successfully integrated a real-time product lookup using OpenFoodFacts API and provided a user-friendly interface with core functionalities. Challenges included JSON parsing and API integration, which were resolved. Future improvements include user authentication, enhanced UI design, and more API integrations.
