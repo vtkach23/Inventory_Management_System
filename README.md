@@ -35,16 +35,16 @@ This is an efficient, technology-driven Inventory Management System designed for
 
 ## Screenshots
 ### Adding a Product
-![Adding a Product](images/adding_product.png)
+![Adding a Product](Images/adding_product.png)
 
 ### Removing a Product
-![Removing a Product](images/removing_product.png)
+![Removing a Product](Images/removing_product.png)
 
 ### Updating Product Quantity
-![Updating Product Quantity](images/updating_quantity.png)
+![Updating Product Quantity](Images/updating_quantity.png)
 
 ### Exporting CSV
-![Exporting CSV](images/exporting_csv.png)
+![Exporting CSV](Images/exporting_csv.png)
 
 ## Future Improvements
 - Add user authentication.
